@@ -4,4 +4,4 @@ Disallow: /category/
 Allow: /wp-admin/admin-ajax.php
 Disallow: */feed/
 
-Sitemap: https://unblocked-games-g.org/sitemap_index.xml
+Sitemap: https://totally-science-unblocked.github.io/sitemap_index.xml
